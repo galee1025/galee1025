@@ -1,5 +1,6 @@
 <div align="center">
   <h1>GaLee</h1>
+  <h3>🍁Front-End Developer🍁</h3>
 
 <br>
 <br>
