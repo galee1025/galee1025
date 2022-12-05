@@ -15,6 +15,7 @@
 
 ##### SNS
 <a href="https://velog.io/@galee" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a> <a href="https://flax-zircon-5cf.notion.site/4477833676244615be01dda4242b5111" target="_blank"><img src="https://img.shields.io/badge/Resume-ffffff?style=flat&logo=Notion&logoColor=black"/></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:galee1025@gmail.com) 
 
 </div>
 
